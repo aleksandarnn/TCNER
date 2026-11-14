@@ -1,0 +1,9 @@
+# Normalise line endings in the repository
+* text=auto eol=lf
+
+# Keep the course data byte-for-byte as provided (CRLF)
+data/*.txt -text
+
+# Binary assets
+*.png binary
+*.pdf binary

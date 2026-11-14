@@ -1,0 +1,5 @@
+model,train size,evaluated on,n,accuracy,macro F1
+original model,21497,full test,3373,0.8615,0.7778
+original model,21497,clean test,3361,0.8611,0.7745
+retrained without boilerplate,21477,full test,3373,0.8615,0.7771
+retrained without boilerplate,21477,clean test,3361,0.8611,0.7737

@@ -1,0 +1,21 @@
+# Cached cleaned titles and fitted model (rebuilt automatically by load_bundle)
+artifacts/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+~$*
+
+# Local copies of the original notebooks with their (19 MB) outputs
+_archive_with_outputs/

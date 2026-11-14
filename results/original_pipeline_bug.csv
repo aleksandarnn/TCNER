@@ -1,0 +1,6 @@
+,value
+test titles whose predicted venue changes,283.0
+share of test titles,0.0839
+mean |change| in P(predicted venue),0.0778
+"accuracy, raw-title path",0.828
+"accuracy, correct path",0.8615

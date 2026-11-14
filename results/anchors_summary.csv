@@ -1,0 +1,13 @@
+,value
+n_words,6.884
+length,1.233
+precision,0.999
+coverage,0.448
+removal precision,0.996
+test-set coverage,0.023
+test-set precision,0.845
+contains GT top word,0.744
+same rule across 3 seeds,0.9
+seed jaccard,0.957
+seconds,0.075
+share of empty anchors,0.283

@@ -1,0 +1,14 @@
+check,value
+n_train,21643
+n_test,3373
+train_dup_titles,190
+train_conflicting_titles,2
+test_dup_titles,13
+cross_split_overlap,12
+cross_split_label_mismatch,0
+train_boilerplate,47
+test_boilerplate,12
+html_markup_train,121
+html_markup_test,24
+empty_after_cleaning_train,0
+empty_after_cleaning_test,0

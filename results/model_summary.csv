@@ -1,0 +1,6 @@
+,value
+top-1 accuracy,0.8615
+top-2 accuracy,0.9558
+top-3 accuracy,0.9819
+macro F1,0.7778
+weighted F1,0.8623

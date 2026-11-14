@@ -1,0 +1,7 @@
+idx,title,true,pred,top word (exact Shapley),top word (LIME),LIME local R²,anchor,anchor precision (alibi samples),anchor coverage (alibi samples),anchor coverage (test titles),anchor precision (test titles),remove to reach true venue,add to reach true venue,linear SHAP mass on absent n-grams
+3,Efficient network generation under general preferential attachment.,WWW,INFOCOM,network,network,0.957,network,1.0,0.507,0.125,0.498,—,"+ web (P=0.44, no flip)",0.421
+13,Computer Formulation of Averaged Models for Periodically-Switched Networks.,ISCAS,INFOCOM,network,network,0.965,network,1.0,0.498,0.125,0.498,"computer, network","+ chip (P=0.75, flips)",0.406
+20,An Efficient Four Layer Over-the-Cell Router.,ISCAS,INFOCOM,router,router,0.955,router,1.0,0.504,0.002,0.571,router,"+ circuit (P=0.68, flips)",0.43
+805,Simulation and Modelling of Nonlinear Magnetics.,ISCAS,ISCAS,nonlinear,nonlinear,0.963,nonlinear,1.0,0.503,0.017,0.982,—,—,0.59
+353,Deduplicating a places database.,WWW,VLDB,database,database,0.998,database,1.0,0.501,0.008,1.0,—,"+ web (P=0.39, no flip)",0.307
+1504,Matching Titles with Cross Title Web-Search Enrichment and Community Detection.,VLDB,WWW,web,web,0.773,community,1.0,0.503,0.007,0.955,—,"+ database (P=0.36, no flip)",0.242

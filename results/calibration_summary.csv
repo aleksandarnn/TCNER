@@ -1,0 +1,5 @@
+variant,accuracy,macro F1,ECE,NLL,Brier,mean confidence
+original,0.8615,0.7778,0.1533,0.5141,0.2401,0.7083
+temperature scaled,0.8615,0.7778,0.0198,0.4126,0.2036,0.8578
+prior-shift corrected (EM),0.8233,0.6811,0.0329,0.4834,0.2459,0.7927
+temperature + prior shift,0.8562,0.7636,0.0318,0.4164,0.2101,0.8816

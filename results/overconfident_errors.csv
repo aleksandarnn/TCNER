@@ -1,0 +1,7 @@
+title,true,predicted,P(pred),norm. entropy,driving words (exact Shapley)
+Matching Titles with Cross Title Web-Search Enrichment and Community Detection.,VLDB,WWW,0.923,0.217,"web +0.42, search +0.24, community +0.21"
+Processing scientific mesh queries in graph databases.,WWW,VLDB,0.922,0.222,"database +0.43, query +0.28, process +0.06"
+Deduplicating a places database.,WWW,VLDB,0.92,0.235,"database +0.78, deduplicate +0.00, place -0.03"
+Biperpedia: An Ontology for Search Applications.,VLDB,WWW,0.895,0.278,"ontology +0.40, search +0.36, biperpedia +0.00"
+SPOT: Locating Social Media Users Based on Social Network Context.,VLDB,WWW,0.872,0.325,"social +0.46, user +0.15, medium +0.14"
+Silencing the noise on <i>Elysium</i>.,SIGGRAPH,ISCAS,0.87,0.335,"noise +0.58, silence +0.00, elysium</i +0.00"

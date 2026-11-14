@@ -1,0 +1,19 @@
+,value
+LIME@64 top3 jaccard,0.843
+LIME@64 spearman,0.921
+LIME@64 rel. std,0.154
+KernelSHAP@64 top3 jaccard,0.92
+KernelSHAP@64 spearman,0.96
+KernelSHAP@64 rel. std,0.074
+LIME@1000 top3 jaccard,0.956
+LIME@1000 spearman,0.978
+LIME@1000 rel. std,0.036
+KernelSHAP@1000 top3 jaccard,0.997
+KernelSHAP@1000 spearman,0.999
+KernelSHAP@1000 rel. std,0.002
+Exact Shapley continuity spearman,1.0
+Exact Shapley null-word share,0.0
+LIME continuity spearman,0.976
+LIME null-word share,0.007
+KernelSHAP continuity spearman,0.997
+KernelSHAP null-word share,0.001
