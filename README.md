@@ -112,3 +112,9 @@ revised and extended version (v2, 2026).
 
 Data: paper titles from the [dblp computer science bibliography](https://dblp.org) (CC0),
 split by the course staff; see [`data/README.md`](data/README.md).
+
+## License
+
+The code, notebooks, figures and write-up are released under the [MIT License](LICENSE).
+The DBLP titles in `data/` keep their own terms (see the data card). Dependencies keep their
+own licenses; note that `alibi` (used for Anchors) is under the Business Source License.
